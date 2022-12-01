@@ -1,0 +1,13 @@
+/* Global styles css */
+*{box-sizing: border-box; scroll-behavior: smooth;}
+
+/* body style */
+:root{width: 100vw; height: 100vh; position: absolute; top: 0; left: 0; margin: 0; padding: 0; overflow: hidden; border:2px solid #a53888; font-size: 62.5%;}
+
+/* the HEADER */
+nav{font-family: 'Manrope', sans-serif; font-size: 2rem; text-align: center; position: fixed; top: 0; left: 0; height: 5vh; display: flex; justify-content: space-between; align-items: center; width: 100vw; }
+
+main{position: fixed; top: 5vh; left: 0; overflow-y: scroll; overflow-x: hidden;  width:95vw; height:90vh; margin: auto; border: 5px solid rgb(236, 154, 31);}
+
+.rubrique{margin: 2% auto; border:2px solid  #a53888; width: 95vw; height: 985pt;}
+
